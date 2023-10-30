@@ -1,6 +1,6 @@
 C pair project - Binary trees tasks
 
-Developpers: 
+Developpers:
 Fouad El AZbi,
 Farid Ahizoune
 
